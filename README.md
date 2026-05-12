@@ -48,9 +48,10 @@ This project analyzes e-commerce sales data using SQL, Python, and Power BI to u
 <img width="277" height="194" alt="Screenshot 2026-05-12 134101" src="https://github.com/user-attachments/assets/97ce1b69-8270-4cf8-b95a-76fb56993206" />
 <img width="517" height="164" alt="Screenshot 2026-05-12 134109" src="https://github.com/user-attachments/assets/caf70d36-ee20-4869-b66a-a60acacaa28a" />
 <img width="602" height="179" alt="Screenshot 2026-05-12 134348" src="https://github.com/user-attachments/assets/6aa10662-81f4-4347-b25e-fa7955b6a5f1" />
+<img width="360" height="158" alt="Screenshot 2026-05-12 134358" src="https://github.com/user-attachments/assets/54f8c1b7-a122-436c-8a21-f72e2ef6209c" />
 
 
 ---
 
 ## Author
-Your Name
+NEHA NAGESH
