@@ -45,7 +45,8 @@ This project analyzes e-commerce sales data using SQL, Python, and Power BI to u
 
 ## Screenshots
 
-(Add dashboard screenshots here)
+<img width="277" height="194" alt="Screenshot 2026-05-12 134101" src="https://github.com/user-attachments/assets/97ce1b69-8270-4cf8-b95a-76fb56993206" />
+
 
 ---
 
